@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Idoia-durana.github.io/sitemap.xml
