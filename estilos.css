@@ -37,8 +37,12 @@ h1 {
     font-weight: bold;
     transition: background-color 0.3s;
   }
-  
-  
+ 
+  .btn-primary{
+    background-color: #31ebf5;   
+    color: white;
+  }
+
   .btn:hover {
     background-color: #2b8cf3;  
   }
